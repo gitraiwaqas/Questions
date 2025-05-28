@@ -1,0 +1,88 @@
+
+> Covers: `let`, `const`, `var`, data types (string, number, boolean, null, undefined, symbol, object), type coercion, comparisons, truthy/falsy values, and basic operations.
+
+---
+
+## 🔹 **Easy (20 Questions)** — *Understand & Use Basic Types*
+
+1. Declare a variable for your name, age, and whether you're a student. Print all. ✅
+2. Swap two numbers using a temporary variable. ✅
+3. Check the type of a value using `typeof`. ✅
+4. Create a variable with `undefined` and print its type.✅ 
+5. Declare a constant PI and try reassigning it. What happens? ✅
+6. Create a variable that holds `null`. Check its type. ✅
+7. Create a string and get its first and last character.
+8. Concatenate two strings using template literals.
+9. Convert a string "123" to a number.
+10. Convert a number to a string.
+11. Add a boolean `true` to a number `5` and print the result.
+12. Use `==` and `===` to compare `'5'` and `5`.
+13. Show an example of **truthy** and **falsy** values in `if` statements.
+14. Use `typeof NaN`. What is the result?
+15. Use `isNaN()` to check different values: `'abc'`, `123`, `'123'`, `true`.
+16. Demonstrate implicit type coercion in JavaScript.
+17. Create a variable that holds a symbol and print it.
+18. Use `typeof` on an array and explain the result.
+19. Check if a variable is an array using `Array.isArray()`.
+20. Use `parseInt` and `parseFloat` on `'12.34px'` and explain the difference.
+
+---
+
+## 🔸 **Medium (20 Questions)** — *Understand How Data Behaves*
+
+21. Write a function that returns the type of any value passed to it.
+22. Explain what happens when you declare the same variable with `var` twice.
+23. What is the output of `typeof null === 'object'` and why?
+24. Show an example where `==` gives `true` but `===` gives `false`.
+25. Use logical operators to combine `true`, `false`, and strings. Explain the result.
+26. Create an object and add/remove keys dynamically.
+27. Create a function that takes two parameters: a value and a type string. Return `true` if the value is of that type.
+28. Write a function that safely checks if a value is undefined or null.
+29. Use `!!value` to convert any value to boolean.
+30. Create a dynamic variable name using an object (e.g., `obj['key'] = value`)
+31. Use `typeof` on a function, an object, and a class.
+32. Demonstrate what happens when you declare a `let` variable twice in the same scope.
+33. Show the difference between global and local scope variables.
+34. Write a function that demonstrates block scoping using `let` and `const`.
+35. Create a variable without `let`, `const`, or `var`. What happens in strict mode?
+36. Write a function to check if two variables have the same value and same type.
+37. Show an example of how JavaScript hoists `var`, but not `let` or `const`.
+38. Show the difference between primitive and reference data types using `===`.
+39. Write a function that returns whether a variable is a primitive.
+40. Use destructuring to extract values from an object and array.
+
+---
+
+## 🔺 **Hard (10 Questions)** — *Edge Cases, Deep Behavior*
+
+41. Explain the result of:
+
+```js
+console.log([] + {});  
+console.log({} + []);  
+console.log([] + []);  
+```
+
+42. Create a deep comparison function to check if two objects have the same content.
+43. Explain why this returns true: `[] == ![]`
+44. Write a function that mimics the `typeof` operator manually.
+45. What happens when you try `typeof function() {}` and why?
+46. Demonstrate `Symbol` uniqueness and use it as an object key.
+47. Write a function that returns a default value if input is `undefined`, `null`, or `NaN`.
+48. Explore and explain:
+
+```js
+let a = 1 + "2" + 3;  
+let b = 1 + +"2" + 3;
+```
+
+49. What happens when you do:
+
+```js
+let x = {};  
+x[true] = 'value';  
+console.log(x[true], x['true']);
+```
+
+50. Write a function that deeply clones any primitive or nested object without `JSON.stringify`.
+
