@@ -11,14 +11,14 @@
 4. Create a variable with `undefined` and print its type.✅ 
 5. Declare a constant PI and try reassigning it. What happens? ✅
 6. Create a variable that holds `null`. Check its type. ✅
-7. Create a string and get its first and last character.
-8. Concatenate two strings using template literals.
-9. Convert a string "123" to a number.
-10. Convert a number to a string.
-11. Add a boolean `true` to a number `5` and print the result.
-12. Use `==` and `===` to compare `'5'` and `5`.
-13. Show an example of **truthy** and **falsy** values in `if` statements.
-14. Use `typeof NaN`. What is the result?
+7. Create a string and get its first and last character.❎ again try
+8. Concatenate two strings using template literals. ✅
+9. Convert a string "123" to a number. ❎ again try
+10. Convert a number to a string. ❎ again try
+11. Add a boolean `true` to a number `5` and print the result. ✅
+12. Use `==` and `===` to compare `'5'` and `5`. ✅
+13. Show an example of **truthy** and **falsy** values in `if` statements. ✅ again try
+14. Use `typeof NaN`. What is the result? ✅
 15. Use `isNaN()` to check different values: `'abc'`, `123`, `'123'`, `true`.
 16. Demonstrate implicit type coercion in JavaScript.
 17. Create a variable that holds a symbol and print it.
