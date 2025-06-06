@@ -19,12 +19,12 @@
 12. Use `==` and `===` to compare `'5'` and `5`. ✅
 13. Show an example of **truthy** and **falsy** values in `if` statements. ✅ again try
 14. Use `typeof NaN`. What is the result? ✅
-15. Use `isNaN()` to check different values: `'abc'`, `123`, `'123'`, `true`.
-16. Demonstrate implicit type coercion in JavaScript.
-17. Create a variable that holds a symbol and print it.
-18. Use `typeof` on an array and explain the result.
-19. Check if a variable is an array using `Array.isArray()`.
-20. Use `parseInt` and `parseFloat` on `'12.34px'` and explain the difference.
+15. Use `isNaN()` to check different values: `'abc'`, `123`, `'123'`, `true`. ✅
+16. Demonstrate implicit type coercion in JavaScript. ✅ again try
+17. Create a variable that holds a symbol and print it. ✅ again try
+18. Use `typeof` on an array and explain the result. ✅ again try
+19. Check if a variable is an array using `Array.isArray()`.✅
+20. Use `parseInt` and `parseFloat` on `'12.34px'` and explain the difference. 
 
 ---
 

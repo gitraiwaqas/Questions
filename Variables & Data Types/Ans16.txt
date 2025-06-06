@@ -1,0 +1,13 @@
+Implicit type coercion in JavaScript happens when the language automatically converts one data type to 
+another during operations like comparisons or arithmetic.
+
+For example:
+
+console.log('5' + 1); // "51" (number 1 is coerced to string)
+console.log('5' - 1); // 4   (string '5' is coerced to number)
+console.log(true + 1); // 2 (true is coerced to 1)
+
+In the first case, '5' is a string, and when using +, JavaScript converts the number 1 to a string, 
+resulting in string concatenation ("51").
+
+In the second case, the - operator causes JavaScript to convert '5' to a number before performing subtraction.
