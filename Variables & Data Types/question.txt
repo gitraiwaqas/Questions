@@ -24,16 +24,16 @@
 17. Create a variable that holds a symbol and print it. ✅ again try
 18. Use `typeof` on an array and explain the result. ✅ again try
 19. Check if a variable is an array using `Array.isArray()`.✅
-20. Use `parseInt` and `parseFloat` on `'12.34px'` and explain the difference. 
+20. Use `parseInt` and `parseFloat` on `'12.34px'` and explain the difference. ❎ again try
 
 ---
 
 ## 🔸 **Medium (20 Questions)** — *Understand How Data Behaves*
 
-21. Write a function that returns the type of any value passed to it.
-22. Explain what happens when you declare the same variable with `var` twice.
-23. What is the output of `typeof null === 'object'` and why?
-24. Show an example where `==` gives `true` but `===` gives `false`.
+21. Write a function that returns the type of any value passed to it.✅
+22. Explain what happens when you declare the same variable with `var` twice. ✅
+23. What is the output of `typeof null === 'object'` and why? ✅
+24. Show an example where `==` gives `true` but `===` gives `false`. ❎ again try
 25. Use logical operators to combine `true`, `false`, and strings. Explain the result.
 26. Create an object and add/remove keys dynamically.
 27. Create a function that takes two parameters: a value and a type string. Return `true` if the value is of that type.
