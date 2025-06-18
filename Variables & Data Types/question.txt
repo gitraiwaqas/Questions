@@ -34,16 +34,16 @@
 22. Explain what happens when you declare the same variable with `var` twice. ✅
 23. What is the output of `typeof null === 'object'` and why? ✅
 24. Show an example where `==` gives `true` but `===` gives `false`. ❎ again try
-25. Use logical operators to combine `true`, `false`, and strings. Explain the result.
-26. Create an object and add/remove keys dynamically.
-27. Create a function that takes two parameters: a value and a type string. Return `true` if the value is of that type.
-28. Write a function that safely checks if a value is undefined or null.
-29. Use `!!value` to convert any value to boolean.
-30. Create a dynamic variable name using an object (e.g., `obj['key'] = value`)
-31. Use `typeof` on a function, an object, and a class.
-32. Demonstrate what happens when you declare a `let` variable twice in the same scope.
-33. Show the difference between global and local scope variables.
-34. Write a function that demonstrates block scoping using `let` and `const`.
+25. Use logical operators to combine `true`, `false`, and strings. Explain the result. ✅
+26. Create an object and add/remove keys dynamically. ✅ again try
+27. Create a function that takes two parameters: a value and a type string. Return `true` if the value is of that type. ✅ again try
+28. Write a function that safely checks if a value is undefined or null. ✅ again try
+29. Use `!!value` to convert any value to boolean. ✅
+30. Create a dynamic variable name using an object (e.g., `obj['key'] = value`) ✅
+31. Use `typeof` on a function, an object, and a class. ✅
+32. Demonstrate what happens when you declare a `let` variable twice in the same scope. ✅
+33. Show the difference between global and local scope variables. ✅
+34. Write a function that demonstrates block scoping using `let` and `const`. ✅ again try
 35. Create a variable without `let`, `const`, or `var`. What happens in strict mode?
 36. Write a function to check if two variables have the same value and same type.
 37. Show an example of how JavaScript hoists `var`, but not `let` or `const`.
