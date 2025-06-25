@@ -44,8 +44,8 @@
 32. Demonstrate what happens when you declare a `let` variable twice in the same scope. ✅
 33. Show the difference between global and local scope variables. ✅
 34. Write a function that demonstrates block scoping using `let` and `const`. ✅ again try
-35. Create a variable without `let`, `const`, or `var`. What happens in strict mode?
-36. Write a function to check if two variables have the same value and same type.
+35. Create a variable without `let`, `const`, or `var`. What happens in strict mode? ✅
+36. Write a function to check if two variables have the same value and same type. ✅
 37. Show an example of how JavaScript hoists `var`, but not `let` or `const`.
 38. Show the difference between primitive and reference data types using `===`.
 39. Write a function that returns whether a variable is a primitive.
