@@ -48,8 +48,8 @@
 36. Write a function to check if two variables have the same value and same type. ✅
 37. Show an example of how JavaScript hoists `var`, but not `let` or `const`. ✅
 38. Show the difference between primitive and reference data types using `===`. ✅
-39. Write a function that returns whether a variable is a primitive.
-40. Use destructuring to extract values from an object and array.
+39. Write a function that returns whether a variable is a primitive. ✅
+40. Use destructuring to extract values from an object and array. ✅
 
 ---
 
@@ -61,9 +61,9 @@
 console.log([] + {});  
 console.log({} + []);  
 console.log([] + []);  
-```
+``` ✅
 
-42. Create a deep comparison function to check if two objects have the same content.
+42. Create a deep comparison function to check if two objects have the same content. 
 43. Explain why this returns true: `[] == ![]`
 44. Write a function that mimics the `typeof` operator manually.
 45. What happens when you try `typeof function() {}` and why?
