@@ -1,0 +1,31 @@
+📝 Questions List:
+1. Print all key-value pairs from an object.
+2. Create a function that prints all key-value pairs of any object.
+3. Print only string values from an object.
+4. Print only keys from an object.
+5. Count how many properties an object has.
+6. Print only string values from an object (another variation).
+7. Sum all numeric values in an object.
+8. Copy only string values into a new object.
+9. Copy only number values into a second object.
+10. Print keys whose values are NOT numbers.
+11. Print values that are NOT boolean.
+12. Print only properties whose key starts with 'p'.
+13. Print a formatted string for each key-value pair (e.g., 'py: stands for Python').
+14. Count number-type properties in an object.
+15. Print only top-level non-object values.
+16. Copy boolean properties into a new object.
+17. Flip all boolean values inside an object.
+18. Calculate average from values in an object.
+19. Count how many 'active' values exist in an object.
+20. Create a new object by removing 0-quantity items.
+21. Copy only string values from an object into a new object.
+22. Count string-type properties in an object.
+23. Copy all non-boolean properties into a new object.
+24. Sum scores of only 'completed: true' sections.
+25. Filter out users with 0 logins.
+26. Count how many users have role 'admin'.
+27. Count how many comments are longer than 10 characters.
+28. Count how many values are of type string/number/boolean.
+29. Count how many fields are empty strings.
+30. Trim whitespace from all string values and build a new object.
